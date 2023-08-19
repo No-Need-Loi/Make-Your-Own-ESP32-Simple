@@ -24,7 +24,6 @@ Open Proteus software and go to the Pick Device window. You can open this window
 
 ![FZ00NR6LL9GI25S](https://github.com/No-Need-Loi/Make-Your-Own-ESP32-Simple/assets/142481076/84645bae-194b-40f9-85c7-ae8172e1e66a)
 
-![Uploading FADMIHULL9GI25Y.png…]()
 
 If you don’t have it in your library, you can click on the yellow bar on the bottom of the Pick Device window. Once you click the yellow bar, a list of components will appear. All of them are ESP32, they differ by the size of the flash memory and layout. We are using in this tutorial the ESP32-WROOM-32D 4Mb. The figure below shows the selected one. 
 
@@ -133,6 +132,14 @@ Search for ESP32 and install the “ESP32 by Espressif Systems“:
 
 After this, restart your Arduino IDE.
 
+This project contains PCB and which was made with the help of JLCPCB
+
+![FWII4IJLL9GI260](https://github.com/No-Need-Loi/Make-Your-Own-ESP32-Simple/assets/142481076/bc37e196-f0dd-4738-8541-cc8d45499e79)
+
+
+JLCPCB has upgraded the via-in-pad process of all 6-20 layer PCBs for free and provides free ENIG to make PCB products more stable and reliable. It is worth mentioning that due to large-scale production capabilities, JLCPCB is able to reduce the cost, allowing everyone to truly enjoy the benefits of the JLCPCB advanced fabrication. Here at JLCPCB, you can also get 1-8 layer PCBs at only $2
+Go to JLCPCB website and create a free account.  
+Register and Login using Google Account is also possible.
 
 Step 6: Troubleshooting
 
