@@ -10,8 +10,6 @@ Engineered for mobile devices, wearable electronics and IoT applications, ESP32 
 
 ESP32 is highly-integrated with in-built antenna switches, RF balun, power amplifier, low-noise receive amplifier, filters, and power management modules. ESP32 adds priceless functionality and versatility to your applications with minimal Printed Circuit Board (PCB) requirements.
 
-![FWBKDVKLL9GI262](https://github.com/No-Need-Loi/Make-Your-Own-ESP32-Simple/assets/142481076/04280590-5019-4830-9141-5cf7d113e009)
-
 ![FYI7NXZLL9GI25W](https://github.com/No-Need-Loi/Make-Your-Own-ESP32-Simple/assets/142481076/18721efa-e391-4683-9d28-1f66771b7b58)
 
 ESP32 can perform as a complete standalone system or as a slave device to a host MCU, reducing communication stack overhead on the main application processor. ESP32 can interface with other systems to provide Wi-Fi and Bluetooth functionality through its SPI / SDIO or I2C / UART interfaces.
