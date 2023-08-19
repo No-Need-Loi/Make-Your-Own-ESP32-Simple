@@ -82,7 +82,6 @@ Step 4 – Choose Necessary PCB Options
 
 Below the PCB preview, you will see so many options such as PCB Quantity, Texture, Thickness, Color etc. Choose all that are necessary for you. 
 
-Add TipAsk QuestionCommentDownload
 Step 4: Programming ESP32 With Arduino IDE
 To program your boards, you need an IDE to write your code. For beginners, we recommend using Arduino IDE. While it’s not the best IDE, it works well and is simple and intuitive to use for beginners. After getting familiar with Arduino IDE and you start creating more complex projects, you may find it useful to use VS Code with the Platformio extension instead.
 
