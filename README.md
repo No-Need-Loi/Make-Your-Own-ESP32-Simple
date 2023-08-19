@@ -1,6 +1,6 @@
 # Make-Your-Own-ESP32-Simple
 
-![FWII4IJLL9GI260](https://github.com/No-Need-Loi/Make-Your-Own-ESP32-Simple/assets/142481076/ca198e8b-842f-472e-b934-1808d302c66b)
+![FUIAOQULL9GI25U](https://github.com/No-Need-Loi/Make-Your-Own-ESP32-Simple/assets/142481076/cd3122cd-9e66-492c-a840-ed0167603a16)
 
 A feature-rich MCU with integrated Wi-Fi and Bluetooth connectivity for a wide-range of applications
 
@@ -61,6 +61,8 @@ Now, repeat Step-1 and add the push-button PT636 SK25J SMTR, 10K resistors, and 
 This project contains PCB and which was made with the help of JLCPCB
 
 JLCPCB has upgraded the via-in-pad process of all 6-20 layer PCBs for free and provides free ENIG to make PCB products more stable and reliable. It is worth mentioning that due to large-scale production capabilities, JLCPCB is able to reduce the cost, allowing everyone to truly enjoy the benefits of the JLCPCB advanced fabrication. Here at JLCPCB, you can also get 1-8 layer PCBs at only $2
+
+![FWII4IJLL9GI260](https://github.com/No-Need-Loi/Make-Your-Own-ESP32-Simple/assets/142481076/ca198e8b-842f-472e-b934-1808d302c66b)
 
 Go to JLCPCB website and create a free account.  
 
