@@ -52,7 +52,6 @@ Now click on Autorouter on the top corner and then click Begin Routing.
 By default, it will run a 2-layer connection. 
 
 ![FKZ35V4LL9GI25R](https://github.com/No-Need-Loi/Make-Your-Own-ESP32-Simple/assets/142481076/f43f7144-5001-4628-bd82-aba1928a009b)
-![Uploading FNFO6UNLL9GI25T.png…]()
 
 
 ESP32-wroom needs few connections to work. These connections are VDD, Ground, Enable, and Io0. VDD and Ground are obviously power pins, so we only need to add external components for Enable and Io0. Enable must be set to 3.3v in order to let the chip run, by adding a push-button, we can send Enable to the ground, allowing the reset of the ESP32. Io0 sets the module in program state when LOW, for example, to program ESP32-wroom, you just need to set Io0 to ground and then set Enable pin also to ground. By adding a push button and a pull-up in Io0, you can control when to program your module. 
